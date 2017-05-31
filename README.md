@@ -1,6 +1,6 @@
-# Web-Development-Boot-Camp-
+# Web-Development-Boot-Camp
 
-This repository includes some of the projects that were completed throughout the duration of this boot camp in which I learned HTML, CSS, Javascript, Jquery, etc.. 
+This repository includes some of the projects that were completed throughout the duration of this boot camp in which I learned HTML, CSS, Javascript, jQuery, etc.. 
 
 
 # Project List:
