@@ -4,6 +4,5 @@ This repository includes some of the projects that were completed throughout the
 
 
 Projects List:
-Color Game - Guess the RGB game in which there is an easy and hard mode. 
-
-ToDo List - Todo list in which you can cross-out/uncross, remove, and add items to a todo list.  
+1. Color Game - Guess the RGB game in which there is an easy and hard mode. 
+2. ToDo List - Todo list in which you can cross-out/uncross, remove, and add items to a todo list.  
